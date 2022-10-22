@@ -1,3 +1,5 @@
+<img src="https://github.com/chitraarasu/Dice-IOS/blob/main/dice.png" width="250" />
+
 ## I learnt this following thing from this project
 
 * Create an app with behaviour and functionality.
