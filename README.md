@@ -1,4 +1,4 @@
-<img src="https://github.com/chitraarasu/Dice-IOS/blob/main/dice.png" width="250" />
+<img src="https://github.com/chitraarasu/Dice-IOS/blob/9f773cb44161538f54be37fccd8a4d60cef4b993/dice.png" width="250" />
 
 ## I learnt this following thing from this project
 
